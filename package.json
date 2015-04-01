@@ -1,0 +1,11 @@
+{
+    "name": "EASTChat",
+    "version": "0.0.1",
+    "description": "Realtime web chat",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "Adam"
+}

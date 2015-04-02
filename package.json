@@ -7,5 +7,6 @@
         "express": "latest",
         "jade": "latest"
     },
-    "author": "Adam"
+    "author": "Adam",
+    "main":"index.js"
 }
